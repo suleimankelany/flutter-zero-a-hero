@@ -9,7 +9,7 @@ Apprendre à coder en flutter à partir de zero à hero!
  - [Installer Git pour Linux](https://git-scm.com/download/linux)
  - [Installer Git pour Mac](https://git-scm.com/download/mac)
 
-## Partie 2 : Hello Word
+## Partie 2 : Hello World
 
  - [Material Design](https://material.io/)
  - [Documentation MaterialApp](https://api.flutter.dev/flutter/material/MaterialApp-class.html)
